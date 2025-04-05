@@ -1,0 +1,47 @@
+.container{
+    background-color: #1F2039;
+}
+.em-propos{
+    color: #A5B4FC;
+}
+a{
+    color: black;
+}
+h1{
+    font-size: 3.5em;
+    color: #A5B4FC;
+    font-family: "Montserrat", sans-serif;
+}
+p{
+    font-size: 1.1em;
+    font-family: "Manrope", sans-serif;
+    color: #F9F8FF;
+}
+ul{
+    font-size: 1em;
+    font-family: "Manrope", sans-serif;
+    color: #F9F8FF;
+}
+h2{
+    color: #F9F8FF;
+}
+a{
+    text-decoration: none;
+    font-family: "Manrope", sans-serif;
+}
+.lien{
+    background: linear-gradient(#8E86B5,#ACAEED);
+    font-family: "Manrope", sans-serif;
+    color: white;
+    border-radius: 50px;
+}
+.fond-lien{
+    background-color: white;
+}
+.fond-lien a{
+    color: #242424;
+}
+.div-propos{
+    border-right: 1px #8e86b5 solid;
+    border-bottom: 1pxs #8e86b5 solid;
+}
